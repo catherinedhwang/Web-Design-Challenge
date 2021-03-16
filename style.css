@@ -14,6 +14,10 @@ h2{
     color: #693c72;
 }
 
+h3{
+    color: #693c72;
+}
+
 p{
     color: #693c72;
     font-weight: bold;
@@ -22,5 +26,12 @@ p{
 nav{
     font-weight: bold;
     font-size: 20px;
+    margin-left: 45px; 
 }
+
+.active, .panel:hover{
+    border-color:#b83b5e;
+    border-style: solid;     
+}
+
 
