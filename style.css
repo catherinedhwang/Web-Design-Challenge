@@ -1,10 +1,26 @@
 body {
-    background-image: url("background1.jpg");
-    background-color:white ;
+    background-color: #f4f9f9;
     height: 800px;
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
     position:relative;
-
 }
+h1{
+    color: #693c72;
+}
+
+h2{
+    color: #693c72;
+}
+
+p{
+    color: #693c72;
+    font-weight: bold;
+}
+
+nav{
+    font-weight: bold;
+    font-size: 20px;
+}
+
